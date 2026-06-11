@@ -3,13 +3,13 @@
     {
       "key": "RADY2",
       "device_id": "772184903070792",
-      "expire": "2025-09-09T23:59:59",
+      "expire": "2026-06-11T06:55:00",
       "note": "Dev - permanent"
     },
     {
       "key": "RADY",
       "device_id": "772184903070792",
-      "expire": "2026-06-11T06:55:00",
+      "expire": "2030-06-11T06:55:00",
       "note": "Dev - permanent"
     }
   ]
