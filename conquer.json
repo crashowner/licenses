@@ -2,24 +2,27 @@
   "licenses": [
     {
       "key": "RADY2",
-      "expire": "2050-09-09",
-      "device_id": "88355041973159"
+      "device_id": "88355041973159",
+      "expire": "2050-09-09T23:59:59",
+      "note": "Dev - permanent"
     },
     {
       "key": "RADY",
-      "expire": "2050-09-09",
-      "device_id": "71125532932003"
+      "device_id": "71125532932003",
+      "expire": "2050-09-09T23:59:59",
+      "note": "Dev - permanent"
     },
     {
       "key": "KASSAB",
-      "expire": "2050-09-09",
-      "device_id": "27332942100545"
+      "device_id": "27332942100545",
+      "expire": "2050-09-09T23:59:59",
+      "note": "Dev - permanent"
     },
-    
     {
       "key": "MAHMOUD",
-      "expire": "2050-09-09",
-      "device_id": "211375645664600"
+      "device_id": "211375645664600",
+      "expire": "2050-09-09T23:59:59",
+      "note": "Dev - permanent"
     }
   ]
 }
