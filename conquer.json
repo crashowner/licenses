@@ -2,13 +2,13 @@
   "licenses": [
     {
       "key": "RADY2",
-      "device_id": "88355041973159",
+      "device_id": "772184903070792",
       "expire": "2050-09-09T23:59:59",
       "note": "Dev - permanent"
     },
     {
       "key": "RADY",
-      "device_id": "71125532932003",
+      "device_id": "772184903070792",
       "expire": "2050-09-09T23:59:59",
       "note": "Dev - permanent"
     },
