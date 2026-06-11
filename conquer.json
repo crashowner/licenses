@@ -11,18 +11,6 @@
       "device_id": "772184903070792",
       "expire": "2050-09-09T23:59:59",
       "note": "Dev - permanent"
-    },
-    {
-      "key": "KASSAB",
-      "device_id": "27332942100545",
-      "expire": "2050-09-09T23:59:59",
-      "note": "Dev - permanent"
-    },
-    {
-      "key": "MAHMOUD",
-      "device_id": "211375645664600",
-      "expire": "2050-09-09T23:59:59",
-      "note": "Dev - permanent"
     }
   ]
 }
